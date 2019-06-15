@@ -1,4 +1,5 @@
 source 'http://rubygems.org'
 
-gem 'minitest'
+# gem 'minitest'
+gem 'rspec'
 gem 'pry'
